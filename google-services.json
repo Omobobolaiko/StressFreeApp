@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292309158740",
+    "firebase_url": "https://baadsstressrelief-default-rtdb.firebaseio.com",
+    "project_id": "baadsstressrelief",
+    "storage_bucket": "baadsstressrelief.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292309158740:android:3ead714cb6faa8228596c1",
+        "android_client_info": {
+          "package_name": "com.example.baads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292309158740-3e4md8nu5ccuivg4fmmu737fu0vk7l4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baads",
+            "certificate_hash": "ce7dce3142dc3e8c524970b53db17745ec10a447"
+          }
+        },
+        {
+          "client_id": "292309158740-34e908j5p2ta77kch2a0judap6o9gtpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBmRbuLFba7pjRrRrsUX7vJsNcdt47Z6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292309158740-34e908j5p2ta77kch2a0judap6o9gtpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
